@@ -29,6 +29,7 @@
     <title>测试文章</title>
     <url>/2023/12/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>这是一篇测试</p>
+<p>温馨提示：hexo d的时候不要开代理，并且等它一下就行，不要卡了就乱动</p>
 ]]></content>
       <categories>
         <category>杂</category>
