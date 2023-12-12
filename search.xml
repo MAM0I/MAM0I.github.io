@@ -1,32 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>example</title>
-    <url>/2023/12/12/example/</url>
-    <content><![CDATA[<h1 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h1>]]></content>
+    <title>HEXO+GithubPages免费搭建个人网站</title>
+    <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
+<p>[<a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.337.search-card.all.click&vd_source=cc9e3ba99b4bfda8a2e08651d394735f">教程]Hexo &amp; Github搭建自己的专属博客</a></p>
+<p><a href="https://www.bilibili.com/video/BV16W411t7mq/?p=11&share_source=copy_web&vd_source=36f5757309b5da142ac2f8875a60e9c1">Next主题</a></p>
+<p><a href="https://hexo.io/zh-cn/docs/themes.html">主题 | Hexo</a></p>
+<p><a href="https://theme-next.iissnan.com/getting-started.html#avatar-setting">开始使用 - NexT 使用文档 (iissnan.com)</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/338299590">hexo绑定域名 - 知乎 (zhihu.com)</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: HEXO+GithubPages免费搭建个人网站</span><br><span class="line">date: 2023-12-12 16:09:21</span><br><span class="line">tags:</span><br><span class="line">  - 杂</span><br><span class="line">categories: 杂</span><br></pre></td></tr></table></figure>
+
+]]></content>
       <categories>
         <category>杂</category>
       </categories>
       <tags>
-        <tag>开始</tag>
+        <tag>杂</tag>
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2023/12/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>Hello World!</title>
+    <url>/2023/12/12/Hello-World/</url>
+    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
 ]]></content>
   </entry>
 </search>
