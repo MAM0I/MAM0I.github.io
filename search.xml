@@ -26,17 +26,38 @@
 ]]></content>
   </entry>
   <entry>
+    <title>hexo中上传图片比例问题</title>
+    <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
+<p>就找了一篇文章</p>
+<p><a href="https://www.cnblogs.com/echolun/p/11354416.html">css 如何让大小不同的图片表现一致，同时自适应呢？ - 听风是风 - 博客园 (cnblogs.com)</a></p>
+<img src="../pic/vw.png" alt="img" style="width: 80%" />
+
+<p>发现好像对我没啥用😂，</p>
+<p>还是直接设置width就好，width: 40%就行</p>
+<img src="../pic/width.png" alt="img" style="width: 80%;" />
+
+<p>行，以后传歌封面就没问题了。</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>[歌曲分享]12/13</title>
     <url>/2023/12/13/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-13/</url>
     <content><![CDATA[<p>好歌分享😎</p>
 <p><a href="https://y.music.163.com/m/song?id=1840603480&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《B.B.F (feat. Hatsune Miku &amp; Kagamine Rin)》</a></p>
-<img src="../pic/B.B.F.jpg" alt="img" style="zoom:10%;" />
+<img src="../pic/B.B.F.jpg" alt="img" style="width: 40%;" />
 
 <p><a href="https://y.music.163.com/m/song?id=1859401485&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Monster》</a></p>
-<img src="../pic/Monster.jpg" alt="img" style="zoom:20%;" />
+<img src="../pic/Monster.jpg" alt="img" style="width:40%;" />
 
 <p><a href="https://y.music.163.com/m/song?id=1474096021&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《play the world!》</a></p>
-<img src="../pic/playtheworld.jpg" alt="img" style="zoom:20%;"/>
+<img src="../pic/playtheworld.jpg" alt="img" style="width: 40%;"/>
 
 <p>对这种短发真是毫无抵抗力😍</p>
 ]]></content>
