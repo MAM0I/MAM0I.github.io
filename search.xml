@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>1225test</title>
+    <url>/2023/12/25/1225test/</url>
+    <content><![CDATA[<p>这是一个测试</p>
+]]></content>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HEXO+GithubPages免费搭建个人网站</title>
     <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
@@ -20,9 +29,10 @@
       </tags>
   </entry>
   <entry>
-    <title>1225test</title>
-    <url>/2023/12/25/1225test/</url>
-    <content><![CDATA[<p>这是一个测试</p>
+    <title>1225test2</title>
+    <url>/2023/12/25/1225test2/</url>
+    <content><![CDATA[<p>z</p>
+<p>这是一个测试2</p>
 ]]></content>
       <tags>
         <tag>杂</tag>
@@ -92,13 +102,11 @@
       </tags>
   </entry>
   <entry>
-    <title>[歌曲分享]12/20</title>
-    <url>/2023/12/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-20/</url>
-    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=30070938&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《风中的苏鲁德》</a></p>
-<img src="../pic/风中的苏鲁德.jpg" alt="img" style="width:40%;" />
-
-<p><a href="https://y.music.163.com/m/song?id=41654823&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《疑心暗鬼》</a></p>
-<img src="../pic/疑心暗鬼.jpg" alt="img" style="width: 40%;" />
+    <title>[歌曲分享]12/16 </title>
+    <url>/2023/12/16/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-16/</url>
+    <content><![CDATA[<p>今天降温，睡到很晚</p>
+<p><a href="https://y.music.163.com/m/song?id=1459852255&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Pili Pili》</a></p>
+<img src="../pic/pilipili.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -108,11 +116,13 @@
       </tags>
   </entry>
   <entry>
-    <title>[歌曲分享]12/16 </title>
-    <url>/2023/12/16/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-16/</url>
-    <content><![CDATA[<p>今天降温，睡到很晚</p>
-<p><a href="https://y.music.163.com/m/song?id=1459852255&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Pili Pili》</a></p>
-<img src="../pic/pilipili.jpg" alt="img" style="width: 40%;" />
+    <title>[歌曲分享]12/20</title>
+    <url>/2023/12/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-20/</url>
+    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=30070938&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《风中的苏鲁德》</a></p>
+<img src="../pic/风中的苏鲁德.jpg" alt="img" style="width:40%;" />
+
+<p><a href="https://y.music.163.com/m/song?id=41654823&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《疑心暗鬼》</a></p>
+<img src="../pic/疑心暗鬼.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
