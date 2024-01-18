@@ -1,28 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>HEXO+GithubPages免费搭建个人网站</title>
-    <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
-<p>[<a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.337.search-card.all.click&vd_source=cc9e3ba99b4bfda8a2e08651d394735f">教程]Hexo &amp; Github搭建自己的专属博客</a></p>
-<p><a href="https://www.bilibili.com/video/BV16W411t7mq/?p=11&share_source=copy_web&vd_source=36f5757309b5da142ac2f8875a60e9c1">Next主题</a></p>
-<p><a href="https://hexo.io/zh-cn/docs/themes.html">主题 | Hexo</a></p>
-<p><a href="https://theme-next.iissnan.com/getting-started.html#avatar-setting">开始使用 - NexT 使用文档 (iissnan.com)</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/338299590">hexo绑定域名 - 知乎 (zhihu.com)</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: HEXO+GithubPages免费搭建个人网站</span><br><span class="line">date: 2023-12-12 16:09:21</span><br><span class="line">tags:</span><br><span class="line">  - 杂</span><br><span class="line">categories: 杂</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>1/19观影后</title>
     <url>/2024/01/19/1-19%E8%A7%82%E5%BD%B1%E5%90%8E/</url>
-    <content><![CDATA[<p>最近作息好像颠倒过来</p>
+    <content><![CDATA[<img src="../pic/ITHOTS.jpg" alt="img" width=80%/>
+
+<p>最近作息好像颠倒过来</p>
 <p>白天睡觉，晚上清醒，不知道什么时候恢复</p>
 <p>还没回家，留到月末</p>
 <p>很无聊，我像是一潭死水</p>
@@ -31,6 +14,7 @@
 <p>在百度百科看了看，了解了下背景</p>
 <blockquote>
 <p>该片改编自王朔的小说《动物凶猛》，讲述了20世纪70年代初的北京，学校停课无事可做，以军队大院男孩为突出代表的少年们便开始自找乐子，他们靠打架闹事等方式挥霍自身过量的荷尔蒙的故事。</p>
+<p>20世纪70年代初的北京，忙着“闹革命”大人无空理会小孩，加上学校停课无事可做，以军队大院男孩为突出代表的少年人便自找乐子，靠起哄、打架、闹事、拍婆子等方式挥霍过量的荷尔蒙。马小军就是这样的少年，他的嗜好之一是趁别人家无人用万能钥匙将其锁打开，溜进去耍玩一番，正是用这样的方式，少女米兰的照片先于其人入了马小军的双眼。通过院里的“头儿”刘忆苦，马小军又见到之前在炮局偶然瞥见过一眼的米兰，开始正式将其当作梦中情人，然而在米兰眼中，马小军不过是毛孩一个，她中意的人是成熟、稳重、帅气的刘忆苦。自此，马小军迎来五味混杂的青春期生活。</p>
 </blockquote>
 <p>“军队大院生活的少年们”，反正看电影也不是都和自己差不多，毕竟是电影</p>
 <blockquote>
@@ -68,6 +52,25 @@
       </categories>
       <tags>
         <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HEXO+GithubPages免费搭建个人网站</title>
+    <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
+<p>[<a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.337.search-card.all.click&vd_source=cc9e3ba99b4bfda8a2e08651d394735f">教程]Hexo &amp; Github搭建自己的专属博客</a></p>
+<p><a href="https://www.bilibili.com/video/BV16W411t7mq/?p=11&share_source=copy_web&vd_source=36f5757309b5da142ac2f8875a60e9c1">Next主题</a></p>
+<p><a href="https://hexo.io/zh-cn/docs/themes.html">主题 | Hexo</a></p>
+<p><a href="https://theme-next.iissnan.com/getting-started.html#avatar-setting">开始使用 - NexT 使用文档 (iissnan.com)</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/338299590">hexo绑定域名 - 知乎 (zhihu.com)</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: HEXO+GithubPages免费搭建个人网站</span><br><span class="line">date: 2023-12-12 16:09:21</span><br><span class="line">tags:</span><br><span class="line">  - 杂</span><br><span class="line">categories: 杂</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
       </tags>
   </entry>
   <entry>
