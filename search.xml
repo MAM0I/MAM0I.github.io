@@ -49,25 +49,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>HEXO+GithubPages免费搭建个人网站</title>
-    <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
-<p>[<a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.337.search-card.all.click&vd_source=cc9e3ba99b4bfda8a2e08651d394735f">教程]Hexo &amp; Github搭建自己的专属博客</a></p>
-<p><a href="https://www.bilibili.com/video/BV16W411t7mq/?p=11&share_source=copy_web&vd_source=36f5757309b5da142ac2f8875a60e9c1">Next主题</a></p>
-<p><a href="https://hexo.io/zh-cn/docs/themes.html">主题 | Hexo</a></p>
-<p><a href="https://theme-next.iissnan.com/getting-started.html#avatar-setting">开始使用 - NexT 使用文档 (iissnan.com)</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/338299590">hexo绑定域名 - 知乎 (zhihu.com)</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: HEXO+GithubPages免费搭建个人网站</span><br><span class="line">date: 2023-12-12 16:09:21</span><br><span class="line">tags:</span><br><span class="line">  - 杂</span><br><span class="line">categories: 杂</span><br></pre></td></tr></table></figure>
-
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo中上传图片比例问题</title>
     <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
@@ -89,13 +70,9 @@
       </tags>
   </entry>
   <entry>
-    <title>卡巴斯基免费版</title>
-    <url>/2023/12/20/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%85%8D%E8%B4%B9%E7%89%88/</url>
-    <content><![CDATA[<p>在病毒吧找的</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">卡巴斯基21.14</span><br><span class="line">https://wwqn.lanzoul.com/iFLrZ1dnscud</span><br><span class="line">激活码：</span><br><span class="line">3SXCM-M9RJM-6985N-PWKP7</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">12/30更新</span><br><span class="line">发现上面那个忘了还有提取码</span><br><span class="line">https://www.bilibili.com/video/BV1yp4y1Z7jG/?spm_id_from=333.999.0.0</span><br><span class="line">看这个吧</span><br></pre></td></tr></table></figure>
-
+    <title>你好，2024</title>
+    <url>/2024/01/01/%E4%BD%A0%E5%A5%BD%EF%BC%8C2024/</url>
+    <content><![CDATA[<h1 id="2024-01-01"><a href="#2024-01-01" class="headerlink" title="2024&#x2F;01&#x2F;01"></a>2024&#x2F;01&#x2F;01</h1><p>嗯，也没啥好说的</p>
 ]]></content>
       <categories>
         <category>杂</category>
@@ -105,9 +82,13 @@
       </tags>
   </entry>
   <entry>
-    <title>你好，2024</title>
-    <url>/2024/01/01/%E4%BD%A0%E5%A5%BD%EF%BC%8C2024/</url>
-    <content><![CDATA[<h1 id="2024-01-01"><a href="#2024-01-01" class="headerlink" title="2024&#x2F;01&#x2F;01"></a>2024&#x2F;01&#x2F;01</h1><p>嗯，也没啥好说的</p>
+    <title>卡巴斯基免费版</title>
+    <url>/2023/12/20/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%85%8D%E8%B4%B9%E7%89%88/</url>
+    <content><![CDATA[<p>在病毒吧找的</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">卡巴斯基21.14</span><br><span class="line">https://wwqn.lanzoul.com/iFLrZ1dnscud</span><br><span class="line">激活码：</span><br><span class="line">3SXCM-M9RJM-6985N-PWKP7</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">12/30更新</span><br><span class="line">发现上面那个忘了还有提取码</span><br><span class="line">https://www.bilibili.com/video/BV1yp4y1Z7jG/?spm_id_from=333.999.0.0</span><br><span class="line">看这个吧</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
         <category>杂</category>
@@ -202,6 +183,25 @@
     <url>/2023/12/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>这是一篇测试</p>
 <p>温馨提示：hexo d的时候不要开代理，并且等它一下就行，不要卡了就乱动</p>
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>HEXO+GithubPages免费搭建个人网站</title>
+    <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
+<p>[<a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.337.search-card.all.click&vd_source=cc9e3ba99b4bfda8a2e08651d394735f">教程]Hexo &amp; Github搭建自己的专属博客</a></p>
+<p><a href="https://www.bilibili.com/video/BV16W411t7mq/?p=11&share_source=copy_web&vd_source=36f5757309b5da142ac2f8875a60e9c1">Next主题</a></p>
+<p><a href="https://hexo.io/zh-cn/docs/themes.html">主题 | Hexo</a></p>
+<p><a href="https://theme-next.iissnan.com/getting-started.html#avatar-setting">开始使用 - NexT 使用文档 (iissnan.com)</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/338299590">hexo绑定域名 - 知乎 (zhihu.com)</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: HEXO+GithubPages免费搭建个人网站</span><br><span class="line">date: 2023-12-12 16:09:21</span><br><span class="line">tags:</span><br><span class="line">  - 杂</span><br><span class="line">categories: 杂</span><br></pre></td></tr></table></figure>
+
 ]]></content>
       <categories>
         <category>杂</category>
