@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>0313杂记</title>
+    <url>/2024/03/13/0313%E6%9D%82%E8%AE%B0/</url>
+    <content><![CDATA[<p>2024&#x2F;03&#x2F;13</p>
+<p>开学第三周，2024已经过去四分之一</p>
+<p>今天把blog的图片问题解决了，找了一堆杂七杂八的方法，到最后还是花钱来的最方便</p>
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>1/19观影后</title>
     <url>/2024/01/19/1-19%E8%A7%82%E5%BD%B1%E5%90%8E/</url>
-    <content><![CDATA[<img src="../pic/ITHOTS.jpg" alt="img" width=80%/>
+    <content><![CDATA[<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/ITHOTS.jpg" alt="img" width=80%/>
 
 <p>最近作息好像颠倒过来</p>
 <p>白天睡觉，晚上清醒，不知道什么时候恢复</p>
@@ -57,7 +71,7 @@
   <entry>
     <title>1/20观影后</title>
     <url>/2024/01/20/1-20%E8%A7%82%E5%BD%B1%E5%90%8E/</url>
-    <content><![CDATA[<img src="../pic/PF.png" alt="img" width=80%/>
+    <content><![CDATA[<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/PF.png" alt="img" width=80%/>
 
 <p>今天看的是《低俗小说》</p>
 <p>这部电影的叙事方式比较不一样</p>
@@ -138,12 +152,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World!</title>
-    <url>/2023/12/12/Hello-World/</url>
-    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
-]]></content>
-  </entry>
-  <entry>
     <title>HEXO+GithubPages免费搭建个人网站</title>
     <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
@@ -163,16 +171,22 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World!</title>
+    <url>/2023/12/12/Hello-World/</url>
+    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo中上传图片比例问题</title>
     <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
 <p>就找了一篇文章</p>
 <p><a href="https://www.cnblogs.com/echolun/p/11354416.html">css 如何让大小不同的图片表现一致，同时自适应呢？ - 听风是风 - 博客园 (cnblogs.com)</a></p>
-<img src="../pic/vw.png" alt="img" style="width: 80%" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/vw.png" alt="img" style="width: 80%" />
 
 <p>发现好像对我没啥用😂，</p>
 <p>还是直接设置width就好，width: 40%就行</p>
-<img src="../pic/width.png" alt="img" style="width: 80%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/width.png" alt="img" style="width: 80%;" />
 
 <p>行，以后传歌封面就没问题了。</p>
 ]]></content>
@@ -388,16 +402,16 @@
     <title>[歌曲分享]1/20</title>
     <url>/2024/01/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-1-20/</url>
     <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=436016476&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《ちるちる (散落飘零)》</a></p>
-<img src="../pic/Reol.jpg" alt="img" width= 40% />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Reol.jpg" alt="img" width= 40% />
 
 <p><a href="https://y.music.163.com/m/song?id=1416364191&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Third District》</a></p>
-<img src="../pic/KatanaZero.jpg" alt="img" width= 40% />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/KatanaZero.jpg" alt="img" width= 40% />
 
 <p>推荐一个游戏，《武士零》——————《Katana Zero》</p>
 <p>画面和操作都特带感，剧情也挺能沉入</p>
-<img src="../pic/kz1.png" alt="img" width= 90% />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/kz1.png" alt="img" width= 90% />
 
-<img src="../pic/kz2.png" alt="img" width= 90% />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/kz2.png" alt="img" width= 90% />
 
 <p>很推荐👍</p>
 <p>每个人在游戏中的选择都会不同，这些选择也能体现我们的人格(?)的不同，我会这样选择，他会那样选，我对我自己的选择还是满意的😊</p>
@@ -414,13 +428,13 @@
     <url>/2023/12/13/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-13/</url>
     <content><![CDATA[<p>好歌分享😎</p>
 <p><a href="https://y.music.163.com/m/song?id=1840603480&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《B.B.F (feat. Hatsune Miku &amp; Kagamine Rin)》</a></p>
-<img src="../pic/B.B.F.jpg" alt="img" style="width: 40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/B.B.F.jpg" alt="img" style="width: 40%;" />
 
 <p><a href="https://y.music.163.com/m/song?id=1859401485&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Monster》</a></p>
-<img src="../pic/Monster.jpg" alt="img" style="width:40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Monster.jpg" alt="img" style="width:40%;" />
 
 <p><a href="https://y.music.163.com/m/song?id=1474096021&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《play the world!》</a></p>
-<img src="../pic/playtheworld.jpg" alt="img" style="width: 40%;"/>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/playtheworld.jpg" alt="img" style="width: 40%;"/>
 
 <p>对这种短发真是毫无抵抗力😍</p>
 ]]></content>
@@ -436,7 +450,7 @@
     <url>/2023/12/16/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-16/</url>
     <content><![CDATA[<p>今天降温，睡到很晚</p>
 <p><a href="https://y.music.163.com/m/song?id=1459852255&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Pili Pili》</a></p>
-<img src="../pic/pilipili.jpg" alt="img" style="width: 40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/pilipili.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -449,10 +463,10 @@
     <title>[歌曲分享]12/20</title>
     <url>/2023/12/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-20/</url>
     <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=30070938&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《风中的苏鲁德》</a></p>
-<img src="../pic/风中的苏鲁德.jpg" alt="img" style="width:40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%E9%A3%8E%E4%B8%AD%E7%9A%84%E8%8B%8F%E9%B2%81%E5%BE%B7.jpg" alt="img" style="width:40%;" />
 
 <p><a href="https://y.music.163.com/m/song?id=41654823&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《疑心暗鬼》</a></p>
-<img src="../pic/疑心暗鬼.jpg" alt="img" style="width: 40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%E7%96%91%E5%BF%83%E6%9A%97%E9%AC%BC.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -465,10 +479,10 @@
     <title>[歌曲分享]12/25</title>
     <url>/2023/12/25/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-25/</url>
     <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=528270282&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Smells Blood》</a></p>
-<img src="../pic/Smells Blood.jpg" alt="img" style="width: 40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Smells%20Blood.jpg" alt="img" style="width: 40%;" />
 
 <p><a href="https://y.music.163.com/m/song?id=1361744892&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Feel Good Inc.》</a></p>
-<img src="../pic/Feel Good Inc..jpg" alt="img" style="width: 40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Feel%20Good%20Inc..jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -481,13 +495,13 @@
     <title>[歌曲分享]12/26</title>
     <url>/2023/12/26/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-26/</url>
     <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=41654827&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《[A]ddiction》</a></p>
-<img src="../pic/[A]ddiction.jpg" alt="img" style="width: 40%;" />
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%5BA%5Dddiction.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
       </categories>
       <tags>
-        <tag>-音乐</tag>
+        <tag>音乐</tag>
       </tags>
   </entry>
   <entry>
