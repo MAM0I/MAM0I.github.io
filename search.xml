@@ -120,15 +120,11 @@
       </tags>
   </entry>
   <entry>
-    <title>1/27杂记</title>
-    <url>/2024/01/27/1-27%E6%9D%82%E8%AE%B0/</url>
-    <content><![CDATA[<p>2024&#x2F;01&#x2F;27</p>
-<p>Sat</p>
-<p>星期六</p>
-<p>明天回家，调下作息，早上起床</p>
-<p>起来看了个帖子————《和轮椅女孩》</p>
-<p>嗯，语言匮乏，只能说出好看两个字</p>
-<p>还有，2024已经过了1&#x2F;12了</p>
+    <title>1/28回家记</title>
+    <url>/2024/01/28/1-28%E5%9B%9E%E5%AE%B6%E8%AE%B0/</url>
+    <content><![CDATA[<p>马上回家了</p>
+<p>也就回去两个星期多吧</p>
+<p>呆在学校也没什么事干，回家也没什么事干</p>
 ]]></content>
       <categories>
         <category>生活</category>
@@ -138,11 +134,15 @@
       </tags>
   </entry>
   <entry>
-    <title>1/28回家记</title>
-    <url>/2024/01/28/1-28%E5%9B%9E%E5%AE%B6%E8%AE%B0/</url>
-    <content><![CDATA[<p>马上回家了</p>
-<p>也就回去两个星期多吧</p>
-<p>呆在学校也没什么事干，回家也没什么事干</p>
+    <title>1/27杂记</title>
+    <url>/2024/01/27/1-27%E6%9D%82%E8%AE%B0/</url>
+    <content><![CDATA[<p>2024&#x2F;01&#x2F;27</p>
+<p>Sat</p>
+<p>星期六</p>
+<p>明天回家，调下作息，早上起床</p>
+<p>起来看了个帖子————《和轮椅女孩》</p>
+<p>嗯，语言匮乏，只能说出好看两个字</p>
+<p>还有，2024已经过了1&#x2F;12了</p>
 ]]></content>
       <categories>
         <category>生活</category>
@@ -177,6 +177,20 @@
 ]]></content>
   </entry>
   <entry>
+    <title>audio test</title>
+    <url>/2024/03/27/audio-test/</url>
+    <content><![CDATA[<p>audio test</p>
+<p>&lt;audio src&#x3D;”mp3文件链接地址”&gt;&lt;&#x2F;audio&gt;</p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/image-20240327183529290.png" alt="image-20240327183529290" style="width:80%;" />
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>hexo中上传图片比例问题</title>
     <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
@@ -198,39 +212,9 @@
       </tags>
   </entry>
   <entry>
-    <title>audio test</title>
-    <url>/2024/03/27/audio-test/</url>
-    <content><![CDATA[<p>audio test</p>
-<p>&lt;audio src&#x3D;”mp3文件链接地址”&gt;&lt;&#x2F;audio&gt;</p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/image-20240327183529290.png" alt="image-20240327183529290" style="width:80%;" />
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>你好，2024</title>
     <url>/2024/01/01/%E4%BD%A0%E5%A5%BD%EF%BC%8C2024/</url>
     <content><![CDATA[<h1 id="2024-01-01"><a href="#2024-01-01" class="headerlink" title="2024&#x2F;01&#x2F;01"></a>2024&#x2F;01&#x2F;01</h1><p>嗯，也没啥好说的</p>
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>卡巴斯基免费版</title>
-    <url>/2023/12/20/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%85%8D%E8%B4%B9%E7%89%88/</url>
-    <content><![CDATA[<p>在病毒吧找的</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">卡巴斯基21.14</span><br><span class="line">https://wwqn.lanzoul.com/iFLrZ1dnscud</span><br><span class="line">激活码：</span><br><span class="line">3SXCM-M9RJM-6985N-PWKP7</span><br></pre></td></tr></table></figure>
-
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">12/30更新</span><br><span class="line">发现上面那个忘了还有提取码</span><br><span class="line">https://www.bilibili.com/video/BV1yp4y1Z7jG/?spm_id_from=333.999.0.0</span><br><span class="line">看这个吧</span><br></pre></td></tr></table></figure>
-
 ]]></content>
       <categories>
         <category>杂</category>
@@ -378,6 +362,22 @@
       </tags>
   </entry>
   <entry>
+    <title>卡巴斯基免费版</title>
+    <url>/2023/12/20/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%85%8D%E8%B4%B9%E7%89%88/</url>
+    <content><![CDATA[<p>在病毒吧找的</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">卡巴斯基21.14</span><br><span class="line">https://wwqn.lanzoul.com/iFLrZ1dnscud</span><br><span class="line">激活码：</span><br><span class="line">3SXCM-M9RJM-6985N-PWKP7</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">12/30更新</span><br><span class="line">发现上面那个忘了还有提取码</span><br><span class="line">https://www.bilibili.com/video/BV1yp4y1Z7jG/?spm_id_from=333.999.0.0</span><br><span class="line">看这个吧</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>杂谈12/16</title>
     <url>/2024/01/27/%E6%9D%82%E8%B0%881216/</url>
     <content><![CDATA[<p>如你所见，这是一篇杂谈</p>
@@ -413,18 +413,6 @@
       </tags>
   </entry>
   <entry>
-    <title>梦，梦，梦！</title>
-    <url>/2024/03/22/%E6%A2%A6%EF%BC%8C%E6%A2%A6%EF%BC%8C%E6%A2%A6%EF%BC%81/</url>
-    <content><![CDATA[<p>没有课的一天，我正在补觉。<br>睡着睡着，伸个懒腰，起床坐到电脑前，开机，嗯？我主机怎么变了？环顾四周，没看见人，难道说我睡觉时门没关好，被人偷换了去？拿出手机，焦急的想，是不是要报警？<br>突然醒来，我在客厅，电视开着，后来我姐来了，然后她又拿起电视遥控器，往下滑，我突然想起手机里好像有些不可见人的东西，便去抢遥控器，但没抢到，姐姐看着电视，这时已经调到了看过的电影的界面，她问我说我看了什么？我看着记录搜寻了一圈，指了三个，是周星星的电影，两部是连续的，另一部是另一个故事，哦，是周星星啊。看到我在玩游戏，就和我说让我在她那也下一个，我给她报了名字，她在手机上搜索，没有诶，姐姐这样说，怎么会没有？她又说，我是日区的id，会不会是这个原因，她的手机是苹果，这样说也有些道理，你怎么用的日区？我要学日语，她这样回答。我从客厅起身，往卧室去了，开门进入后，突然一惊，不对，我家不是这样的，我的卧室也不是这样的，我努力回忆着我真实所住的地方，对不是这样的，我又翻箱倒柜，是梦，是梦！我这样喊着，然而我没有醒来，见没有醒来，我又不喊了，如常在我那卧室翻着。<br>从家中一楼大厅醒来，环顾四周，家里一个人都没有，推开门往外看去，白茫茫一片，是大雪，我又关上门回来，又看一圈，还是只有我一个人，在厅内坐着坐着，门外有人推门进来，是姐姐，我问她，爸妈呢？她摇摇头，这大雪天，怎么能在外面呢？我焦急了，我走来走去，一阵好等，突然，外面又有人推门进来，是父母，好，好，人齐了几天。<br>又醒了，睁开眼，脑袋昏昏沉沉，看向四周，好，是真醒了，好饿，点个外卖，再将连环梦写下，不过有些细节已经忘了，我就尽量少修改些地记下。行了，记下了，外卖也到了，吃饭。</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>[歌曲分享]1/20</title>
     <url>/2024/01/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-1-20/</url>
     <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=436016476&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《ちるちる (散落飘零)》</a></p>
@@ -450,6 +438,32 @@
       </tags>
   </entry>
   <entry>
+    <title>梦，梦，梦！</title>
+    <url>/2024/03/22/%E6%A2%A6%EF%BC%8C%E6%A2%A6%EF%BC%8C%E6%A2%A6%EF%BC%81/</url>
+    <content><![CDATA[<p>没有课的一天，我正在补觉。<br>睡着睡着，伸个懒腰，起床坐到电脑前，开机，嗯？我主机怎么变了？环顾四周，没看见人，难道说我睡觉时门没关好，被人偷换了去？拿出手机，焦急的想，是不是要报警？<br>突然醒来，我在客厅，电视开着，后来我姐来了，然后她又拿起电视遥控器，往下滑，我突然想起手机里好像有些不可见人的东西，便去抢遥控器，但没抢到，姐姐看着电视，这时已经调到了看过的电影的界面，她问我说我看了什么？我看着记录搜寻了一圈，指了三个，是周星星的电影，两部是连续的，另一部是另一个故事，哦，是周星星啊。看到我在玩游戏，就和我说让我在她那也下一个，我给她报了名字，她在手机上搜索，没有诶，姐姐这样说，怎么会没有？她又说，我是日区的id，会不会是这个原因，她的手机是苹果，这样说也有些道理，你怎么用的日区？我要学日语，她这样回答。我从客厅起身，往卧室去了，开门进入后，突然一惊，不对，我家不是这样的，我的卧室也不是这样的，我努力回忆着我真实所住的地方，对不是这样的，我又翻箱倒柜，是梦，是梦！我这样喊着，然而我没有醒来，见没有醒来，我又不喊了，如常在我那卧室翻着。<br>从家中一楼大厅醒来，环顾四周，家里一个人都没有，推开门往外看去，白茫茫一片，是大雪，我又关上门回来，又看一圈，还是只有我一个人，在厅内坐着坐着，门外有人推门进来，是姐姐，我问她，爸妈呢？她摇摇头，这大雪天，怎么能在外面呢？我焦急了，我走来走去，一阵好等，突然，外面又有人推门进来，是父母，好，好，人齐了几天。<br>又醒了，睁开眼，脑袋昏昏沉沉，看向四周，好，是真醒了，好饿，点个外卖，再将连环梦写下，不过有些细节已经忘了，我就尽量少修改些地记下。行了，记下了，外卖也到了，吃饭。</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[歌曲分享]12/16 </title>
+    <url>/2023/12/16/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-16/</url>
+    <content><![CDATA[<p>今天降温，睡到很晚</p>
+<p><a href="https://y.music.163.com/m/song?id=1459852255&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Pili Pili》</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/pilipili.jpg" alt="img" style="width: 40%;" />
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>[歌曲分享]12/13</title>
     <url>/2023/12/13/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-13/</url>
     <content><![CDATA[<p>好歌分享😎</p>
@@ -463,20 +477,6 @@
 <img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/playtheworld.jpg" alt="img" style="width: 40%;"/>
 
 <p>对这种短发真是毫无抵抗力😍</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>[歌曲分享]12/16 </title>
-    <url>/2023/12/16/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-16/</url>
-    <content><![CDATA[<p>今天降温，睡到很晚</p>
-<p><a href="https://y.music.163.com/m/song?id=1459852255&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Pili Pili》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/pilipili.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -518,19 +518,6 @@
       </tags>
   </entry>
   <entry>
-    <title>[歌曲分享]12/26</title>
-    <url>/2023/12/26/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-26/</url>
-    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=41654827&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《[A]ddiction》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%5BA%5Dddiction.jpg" alt="img" style="width: 40%;" />
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>测试文章</title>
     <url>/2023/12/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>这是一篇测试</p>
@@ -541,6 +528,19 @@
       </categories>
       <tags>
         <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[歌曲分享]12/26</title>
+    <url>/2023/12/26/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-26/</url>
+    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=41654827&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《[A]ddiction》</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%5BA%5Dddiction.jpg" alt="img" style="width: 40%;" />
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
       </tags>
   </entry>
   <entry>
