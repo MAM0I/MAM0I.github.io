@@ -38,6 +38,20 @@
       </tags>
   </entry>
   <entry>
+    <title>05/02杂谈</title>
+    <url>/2024/05/02/05-02%E6%9D%82%E8%B0%88/</url>
+    <content><![CDATA[<p>睡觉，爽！</p>
+<p>我不知道从什么时候开始，记性就不太好了，小时候的事忘得差不多了，两年前还又会了一个新功能，每天早上起床都可以算个初始化，忘记昨天的所有烦恼，忘记昨天的焦虑</p>
+<p>不过一天下来又会有就是了😂</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>1/19观影后</title>
     <url>/2024/01/19/1-19%E8%A7%82%E5%BD%B1%E5%90%8E/</url>
     <content><![CDATA[<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/ITHOTS.jpg" alt="img" width=80%/>
@@ -123,11 +137,17 @@
       </tags>
   </entry>
   <entry>
-    <title>05/02杂谈</title>
-    <url>/2024/05/02/05-02%E6%9D%82%E8%B0%88/</url>
-    <content><![CDATA[<p>睡觉，爽！</p>
-<p>我不知道从什么时候开始，记性就不太好了，小时候的事忘得差不多了，两年前还又会了一个新功能，每天早上起床都可以算个初始化，忘记昨天的所有烦恼，忘记昨天的焦虑</p>
-<p>不过一天下来又会有就是了😂</p>
+    <title>1/22杂谈</title>
+    <url>/2024/01/22/1-22%E6%9D%82%E8%B0%88/</url>
+    <content><![CDATA[<p>这几天看了几部好看的动漫</p>
+<ul>
+<li>地狱客栈</li>
+<li>Metal Family</li>
+<li>ПСИХОНЯШКИ(疯子)		它的前篇-elevator man，是一个小短片</li>
+</ul>
+<p>还有个没看但是打算去看的————神奇数字马戏团</p>
+<p>有意思的东西可真多呢😊</p>
+<p>多看些👍</p>
 ]]></content>
       <categories>
         <category>生活</category>
@@ -217,30 +237,29 @@
       </tags>
   </entry>
   <entry>
+    <title>HEXO+GithubPages免费搭建个人网站</title>
+    <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
+    <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
+<p>[<a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.337.search-card.all.click&vd_source=cc9e3ba99b4bfda8a2e08651d394735f">教程]Hexo &amp; Github搭建自己的专属博客</a></p>
+<p><a href="https://www.bilibili.com/video/BV16W411t7mq/?p=11&share_source=copy_web&vd_source=36f5757309b5da142ac2f8875a60e9c1">Next主题</a></p>
+<p><a href="https://hexo.io/zh-cn/docs/themes.html">主题 | Hexo</a></p>
+<p><a href="https://theme-next.iissnan.com/getting-started.html#avatar-setting">开始使用 - NexT 使用文档 (iissnan.com)</a></p>
+<p><a href="https://zhuanlan.zhihu.com/p/338299590">hexo绑定域名 - 知乎 (zhihu.com)</a></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: HEXO+GithubPages免费搭建个人网站</span><br><span class="line">date: 2023-12-12 16:09:21</span><br><span class="line">tags:</span><br><span class="line">  - 杂</span><br><span class="line">categories: 杂</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World!</title>
     <url>/2023/12/12/Hello-World/</url>
     <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>1/22杂谈</title>
-    <url>/2024/01/22/1-22%E6%9D%82%E8%B0%88/</url>
-    <content><![CDATA[<p>这几天看了几部好看的动漫</p>
-<ul>
-<li>地狱客栈</li>
-<li>Metal Family</li>
-<li>ПСИХОНЯШКИ(疯子)		它的前篇-elevator man，是一个小短片</li>
-</ul>
-<p>还有个没看但是打算去看的————神奇数字马戏团</p>
-<p>有意思的东西可真多呢😊</p>
-<p>多看些👍</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
   </entry>
   <entry>
     <title>audio test</title>
@@ -278,18 +297,6 @@
       </tags>
   </entry>
   <entry>
-    <title>你好，2024</title>
-    <url>/2024/01/01/%E4%BD%A0%E5%A5%BD%EF%BC%8C2024/</url>
-    <content><![CDATA[<h1 id="2024-01-01"><a href="#2024-01-01" class="headerlink" title="2024&#x2F;01&#x2F;01"></a>2024&#x2F;01&#x2F;01</h1><p>嗯，也没啥好说的</p>
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>卡巴斯基免费版</title>
     <url>/2023/12/20/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%85%8D%E8%B4%B9%E7%89%88/</url>
     <content><![CDATA[<p>在病毒吧找的</p>
@@ -303,6 +310,38 @@
       </categories>
       <tags>
         <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>你好，2024</title>
+    <url>/2024/01/01/%E4%BD%A0%E5%A5%BD%EF%BC%8C2024/</url>
+    <content><![CDATA[<h1 id="2024-01-01"><a href="#2024-01-01" class="headerlink" title="2024&#x2F;01&#x2F;01"></a>2024&#x2F;01&#x2F;01</h1><p>嗯，也没啥好说的</p>
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>听歌之路</title>
+    <url>/2024/05/17/%E5%90%AC%E6%AD%8C%E4%B9%8B%E8%B7%AF/</url>
+    <content><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1915867833&auto=0&height=66"></iframe>
+
+<p>写一下我的听歌软件历程</p>
+<p>很久以前是用网易云，然后就这么用下来了，期间也用过一点点的酷我、酷狗、QQ音乐，但是我大部分歌单都在网易云，难迁移，麻烦</p>
+<p>去年，我弄了个网易音乐人，白嫖了一年的vip，本来音乐人是可以每年都换vip的，但是今年四月，网易把规则给改了，不让换了，真是要把我七四，以为可以靠音乐人一直用下去，现在vip也过了，软件广告很多，还有几百首的要vip才能听，难搞</p>
+<p>前段时间搞了个spotify，结果用一个月歌都听不了了😂，买不起会员，没办法，穷，下一个</p>
+<p>现在手机上找到了椒盐音乐，这是一个可以很方便而且很精美的本地音乐播放器，然后可以配合酷狗概念版免费下载音乐再转换格式，就可以在手机上听本地歌了，不过我手机内存还没大到可以把歌都下下来的地步</p>
+<p>然后还发现一个可以听阿里云盘里的歌的软件叫——普听音乐，真是天才，不过这个软件不是很好看</p>
+<p>还有电脑上听歌方法，暂时没找到很好的解决方法，还是网易云凑合用，听听不要vip歌还是可以的，而且也没广告</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
       </tags>
   </entry>
   <entry>
@@ -494,9 +533,13 @@
     <title>[歌曲分享]1/20</title>
     <url>/2024/01/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-1-20/</url>
     <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=436016476&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《ちるちる (散落飘零)》</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=436016476&auto=0&height=66"></iframe>
+
 <img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Reol.jpg" alt="img" width= 40% />
 
 <p><a href="https://y.music.163.com/m/song?id=1416364191&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Third District》</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1416364191&auto=0&height=66"></iframe>
+
 <img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/KatanaZero.jpg" alt="img" width= 40% />
 
 <p>推荐一个游戏，《武士零》——————《Katana Zero》</p>
@@ -516,10 +559,28 @@
       </tags>
   </entry>
   <entry>
+    <title>[歌曲分享]12/16 </title>
+    <url>/2023/12/16/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-16/</url>
+    <content><![CDATA[<p>今天降温，睡到很晚</p>
+<p><a href="https://y.music.163.com/m/song?id=1459852255&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Pili Pili》</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1459852255&auto=0&height=66"></iframe>
+
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/pilipili.jpg" alt="img" style="width: 40%;" />
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>[歌曲分享]12/13</title>
     <url>/2023/12/13/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-13/</url>
     <content><![CDATA[<p>好歌分享😎</p>
 <p><a href="https://y.music.163.com/m/song?id=1840603480&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《B.B.F (feat. Hatsune Miku &amp; Kagamine Rin)》</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1840603480&auto=0&height=66"></iframe>
+
 <img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/B.B.F.jpg" alt="img" style="width: 40%;" />
 
 <p><a href="https://y.music.163.com/m/song?id=1859401485&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Monster》</a></p>
@@ -538,11 +599,15 @@
       </tags>
   </entry>
   <entry>
-    <title>[歌曲分享]12/16 </title>
-    <url>/2023/12/16/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-16/</url>
-    <content><![CDATA[<p>今天降温，睡到很晚</p>
-<p><a href="https://y.music.163.com/m/song?id=1459852255&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Pili Pili》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/pilipili.jpg" alt="img" style="width: 40%;" />
+    <title>[歌曲分享]12/20</title>
+    <url>/2023/12/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-20/</url>
+    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=30070938&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《风中的苏鲁德》</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=30070938&auto=0&height=66"></iframe>
+
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%E9%A3%8E%E4%B8%AD%E7%9A%84%E8%8B%8F%E9%B2%81%E5%BE%B7.jpg" alt="img" style="width:40%;" />
+
+<p><a href="https://y.music.163.com/m/song?id=41654823&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《疑心暗鬼》</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%E7%96%91%E5%BF%83%E6%9A%97%E9%AC%BC.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -552,13 +617,10 @@
       </tags>
   </entry>
   <entry>
-    <title>[歌曲分享]12/20</title>
-    <url>/2023/12/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-20/</url>
-    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=30070938&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《风中的苏鲁德》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%E9%A3%8E%E4%B8%AD%E7%9A%84%E8%8B%8F%E9%B2%81%E5%BE%B7.jpg" alt="img" style="width:40%;" />
-
-<p><a href="https://y.music.163.com/m/song?id=41654823&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《疑心暗鬼》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%E7%96%91%E5%BF%83%E6%9A%97%E9%AC%BC.jpg" alt="img" style="width: 40%;" />
+    <title>[歌曲分享]12/26</title>
+    <url>/2023/12/26/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-26/</url>
+    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=41654827&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《[A]ddiction》</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%5BA%5Dddiction.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -575,19 +637,6 @@
 
 <p><a href="https://y.music.163.com/m/song?id=1361744892&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Feel Good Inc.》</a></p>
 <img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Feel%20Good%20Inc..jpg" alt="img" style="width: 40%;" />
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>[歌曲分享]12/26</title>
-    <url>/2023/12/26/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-26/</url>
-    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=41654827&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《[A]ddiction》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%5BA%5Dddiction.jpg" alt="img" style="width: 40%;" />
 ]]></content>
       <categories>
         <category>生活</category>
@@ -616,25 +665,6 @@
 <p>这学期课也没怎么听，没兴趣没动力，要是不用上课就好了，这期末考试也是复习一两天去考，应该也不会挂，应该</p>
 <p>今天交完报告去食堂吃饭，在窗口看见个漂亮妹妹在那兼职</p>
 <p>再过两天就考完了，应该有一个半月的假，然后进入下学期</p>
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HEXO+GithubPages免费搭建个人网站</title>
-    <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
-    <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
-<p>[<a href="https://www.bilibili.com/video/BV1Eg41157tL/?spm_id_from=333.337.search-card.all.click&vd_source=cc9e3ba99b4bfda8a2e08651d394735f">教程]Hexo &amp; Github搭建自己的专属博客</a></p>
-<p><a href="https://www.bilibili.com/video/BV16W411t7mq/?p=11&share_source=copy_web&vd_source=36f5757309b5da142ac2f8875a60e9c1">Next主题</a></p>
-<p><a href="https://hexo.io/zh-cn/docs/themes.html">主题 | Hexo</a></p>
-<p><a href="https://theme-next.iissnan.com/getting-started.html#avatar-setting">开始使用 - NexT 使用文档 (iissnan.com)</a></p>
-<p><a href="https://zhuanlan.zhihu.com/p/338299590">hexo绑定域名 - 知乎 (zhihu.com)</a></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: HEXO+GithubPages免费搭建个人网站</span><br><span class="line">date: 2023-12-12 16:09:21</span><br><span class="line">tags:</span><br><span class="line">  - 杂</span><br><span class="line">categories: 杂</span><br></pre></td></tr></table></figure>
-
 ]]></content>
       <categories>
         <category>杂</category>
