@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>04/29杂记</title>
-    <url>/2024/04/29/04-29%E6%9D%82%E8%AE%B0/</url>
-    <content><![CDATA[<p>2024&#x2F;04&#x2F;29</p>
-<p>嗯，好久没更了，</p>
-<p>这是为什么呢？</p>
-<p>因为之前更完没多久，发现网站打不开了，很奇怪啊</p>
-<p>就找原因，找不着，有的时候能进，但是大部分的时候都进不了</p>
-<p>然后又发现开代理后能稳定进，我就想不会是网站被ban了吧</p>
-<p>搞不懂咋回事，然后今天，试了下，发现能进了，不知道是突然好了还是短暂的</p>
-<p>不过还是更一下再来个月度总结吧</p>
-<p>我这个月做了什么？</p>
-<p>好像什么都没做，emo了一个月</p>
-<p>好吧，正常发挥</p>
-<p>希望5月能好一点</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>03/13杂记</title>
     <url>/2024/03/13/03-13%E6%9D%82%E8%AE%B0/</url>
     <content><![CDATA[<p>2024&#x2F;03&#x2F;13</p>
@@ -38,11 +15,20 @@
       </tags>
   </entry>
   <entry>
-    <title>05/02杂谈</title>
-    <url>/2024/05/02/05-02%E6%9D%82%E8%B0%88/</url>
-    <content><![CDATA[<p>睡觉，爽！</p>
-<p>我不知道从什么时候开始，记性就不太好了，小时候的事忘得差不多了，两年前还又会了一个新功能，每天早上起床都可以算个初始化，忘记昨天的所有烦恼，忘记昨天的焦虑</p>
-<p>不过一天下来又会有就是了😂</p>
+    <title>04/29杂记</title>
+    <url>/2024/04/29/04-29%E6%9D%82%E8%AE%B0/</url>
+    <content><![CDATA[<p>2024&#x2F;04&#x2F;29</p>
+<p>嗯，好久没更了，</p>
+<p>这是为什么呢？</p>
+<p>因为之前更完没多久，发现网站打不开了，很奇怪啊</p>
+<p>就找原因，找不着，有的时候能进，但是大部分的时候都进不了</p>
+<p>然后又发现开代理后能稳定进，我就想不会是网站被ban了吧</p>
+<p>搞不懂咋回事，然后今天，试了下，发现能进了，不知道是突然好了还是短暂的</p>
+<p>不过还是更一下再来个月度总结吧</p>
+<p>我这个月做了什么？</p>
+<p>好像什么都没做，emo了一个月</p>
+<p>好吧，正常发挥</p>
+<p>希望5月能好一点</p>
 ]]></content>
       <categories>
         <category>生活</category>
@@ -94,6 +80,20 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1308081478&auto=0&height=66"></iframe>
 
 <p>这是闽南语？还是什么</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>05/02杂谈</title>
+    <url>/2024/05/02/05-02%E6%9D%82%E8%B0%88/</url>
+    <content><![CDATA[<p>睡觉，爽！</p>
+<p>我不知道从什么时候开始，记性就不太好了，小时候的事忘得差不多了，两年前还又会了一个新功能，每天早上起床都可以算个初始化，忘记昨天的所有烦恼，忘记昨天的焦虑</p>
+<p>不过一天下来又会有就是了😂</p>
 ]]></content>
       <categories>
         <category>生活</category>
@@ -313,20 +313,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>audio test</title>
-    <url>/2024/03/27/audio-test/</url>
-    <content><![CDATA[<p>audio test</p>
-<p>&lt;audio src&#x3D;”mp3文件链接地址”&gt;&lt;&#x2F;audio&gt;</p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/image-20240327183529290.png" alt="image-20240327183529290" style="width:80%;" />
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>hexo中上传图片比例问题</title>
     <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
@@ -360,6 +346,20 @@
       </tags>
   </entry>
   <entry>
+    <title>audio test</title>
+    <url>/2024/03/27/audio-test/</url>
+    <content><![CDATA[<p>audio test</p>
+<p>&lt;audio src&#x3D;”mp3文件链接地址”&gt;&lt;&#x2F;audio&gt;</p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/image-20240327183529290.png" alt="image-20240327183529290" style="width:80%;" />
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>卡巴斯基免费版</title>
     <url>/2023/12/20/%E5%8D%A1%E5%B7%B4%E6%96%AF%E5%9F%BA%E5%85%8D%E8%B4%B9%E7%89%88/</url>
     <content><![CDATA[<p>在病毒吧找的</p>
@@ -373,6 +373,29 @@
       </categories>
       <tags>
         <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于恐高</title>
+    <url>/2024/05/22/%E5%85%B3%E4%BA%8E%E6%81%90%E9%AB%98/</url>
+    <content><![CDATA[<p>我有恐高</p>
+<p>具体不知道是什么时候，总之是很久之前了</p>
+<p>在高中有时候会在走廊往外看时岔开双腿，把自己放低</p>
+<p>这样降低重心后再往外看会让我感到更安全😂</p>
+<p>有时候路过走廊时会幻想我会翻过栏杆从空中跌落，然后我会往内侧靠一些</p>
+<p>还有个类似的，在汽车快速行驶时会幻想自己打开车门，从车上滚落</p>
+<p>我害怕在高楼中往下看</p>
+<p>我有在视频网站上看过那些极限挑战(?)，在城市中爬上高处，没有任何防护，这总让我揪心</p>
+<p>关于恐高还有一大部分是在梦中，感觉恐高梦算在我的梦中占比还大的了</p>
+<p>比如我在一个空隙很大，不坚固，没有扶手的空中楼梯，我的本能在害怕，而且我在梦中活动也不灵活，只能忍受😂</p>
+<p>梦中的主要都是人造建筑，几乎没有在大自然中，我还在视频网站上看过山上的玻璃栈道，我的本能在害怕，但我的理智会告诉我，只要我不做什么离谱的举动，那就是安全的，还有在过山车之类的，这些情况理智会告诉我是安全的</p>
+<p>总的来说我的恐高是对不可靠的，没有保护的高处恐高，虽然我应该也不会遇到就是了</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
       </tags>
   </entry>
   <entry>
@@ -684,19 +707,6 @@
       </tags>
   </entry>
   <entry>
-    <title>[歌曲分享]12/26</title>
-    <url>/2023/12/26/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-26/</url>
-    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=41654827&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《[A]ddiction》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%5BA%5Dddiction.jpg" alt="img" style="width: 40%;" />
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>测试文章</title>
     <url>/2023/12/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
     <content><![CDATA[<p>这是一篇测试</p>
@@ -707,6 +717,19 @@
       </categories>
       <tags>
         <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[歌曲分享]12/26</title>
+    <url>/2023/12/26/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-26/</url>
+    <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=41654827&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《[A]ddiction》</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/%5BA%5Dddiction.jpg" alt="img" style="width: 40%;" />
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
       </tags>
   </entry>
   <entry>
