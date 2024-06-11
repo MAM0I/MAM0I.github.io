@@ -157,6 +157,26 @@
       </tags>
   </entry>
   <entry>
+    <title>1/22杂谈</title>
+    <url>/2024/01/22/1-22%E6%9D%82%E8%B0%88/</url>
+    <content><![CDATA[<p>这几天看了几部好看的动漫</p>
+<ul>
+<li>地狱客栈</li>
+<li>Metal Family</li>
+<li>ПСИХОНЯШКИ(疯子)		它的前篇-elevator man，是一个小短片</li>
+</ul>
+<p>还有个没看但是打算去看的————神奇数字马戏团</p>
+<p>有意思的东西可真多呢😊</p>
+<p>多看些👍</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>1/20观影后</title>
     <url>/2024/01/20/1-20%E8%A7%82%E5%BD%B1%E5%90%8E/</url>
     <content><![CDATA[<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/PF.png" alt="img" width=80%/>
@@ -182,26 +202,6 @@
 ]]></content>
       <categories>
         <category>观后感</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>1/22杂谈</title>
-    <url>/2024/01/22/1-22%E6%9D%82%E8%B0%88/</url>
-    <content><![CDATA[<p>这几天看了几部好看的动漫</p>
-<ul>
-<li>地狱客栈</li>
-<li>Metal Family</li>
-<li>ПСИХОНЯШКИ(疯子)		它的前篇-elevator man，是一个小短片</li>
-</ul>
-<p>还有个没看但是打算去看的————神奇数字马戏团</p>
-<p>有意思的东西可真多呢😊</p>
-<p>多看些👍</p>
-]]></content>
-      <categories>
-        <category>生活</category>
       </categories>
       <tags>
         <tag>生活</tag>
@@ -288,6 +288,12 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World!</title>
+    <url>/2023/12/12/Hello-World/</url>
+    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
+]]></content>
+  </entry>
+  <entry>
     <title>HEXO+GithubPages免费搭建个人网站</title>
     <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
@@ -307,12 +313,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World!</title>
-    <url>/2023/12/12/Hello-World/</url>
-    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
-]]></content>
-  </entry>
-  <entry>
     <title>audio test</title>
     <url>/2024/03/27/audio-test/</url>
     <content><![CDATA[<p>audio test</p>
@@ -324,6 +324,27 @@
       </categories>
       <tags>
         <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>hexo中上传图片比例问题</title>
+    <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
+    <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
+<p>就找了一篇文章</p>
+<p><a href="https://www.cnblogs.com/echolun/p/11354416.html">css 如何让大小不同的图片表现一致，同时自适应呢？ - 听风是风 - 博客园 (cnblogs.com)</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/vw.png" alt="img" style="width: 80%" />
+
+<p>发现好像对我没啥用😂，</p>
+<p>还是直接设置width就好，width: 40%就行</p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/width.png" alt="img" style="width: 80%;" />
+
+<p>行，以后传歌封面就没问题了。</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -355,27 +376,6 @@
       </categories>
       <tags>
         <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>hexo中上传图片比例问题</title>
-    <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
-    <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
-<p>就找了一篇文章</p>
-<p><a href="https://www.cnblogs.com/echolun/p/11354416.html">css 如何让大小不同的图片表现一致，同时自适应呢？ - 听风是风 - 博客园 (cnblogs.com)</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/vw.png" alt="img" style="width: 80%" />
-
-<p>发现好像对我没啥用😂，</p>
-<p>还是直接设置width就好，width: 40%就行</p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/width.png" alt="img" style="width: 80%;" />
-
-<p>行，以后传歌封面就没问题了。</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -492,6 +492,27 @@
 <p>感觉这部电影剧情很老套，有复制人，复制人当奴隶用，复制人回地球搞事，银翼杀手杀复制人，怎么说呢，感觉1982年的电影老套好像也正常</p>
 <p>不过感觉这个故事完全不吸引人，还有，这部电影的色彩环境风格我实在是不喜欢，太暗了</p>
 <p>哦，还有，为什么最后ROY要像猴子一样叫啊，复制人怎么会返祖，离了谱了</p>
+]]></content>
+      <categories>
+        <category>观后感</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《这个杀手不太冷》观影后</title>
+    <url>/2024/06/12/%E3%80%8A%E8%BF%99%E4%B8%AA%E6%9D%80%E6%89%8B%E4%B8%8D%E5%A4%AA%E5%86%B7%E3%80%8B%E8%A7%82%E5%BD%B1%E5%90%8E/</url>
+    <content><![CDATA[<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/2024-06-12_00-21-32.png" alt="2024-06-12_00-21-32" style="width:80%;" />
+
+<p>今天看的是《这个杀手不太冷》，1994，法国片</p>
+<p>我很久以前就看过，现在忘得差不多重新补一遍</p>
+<p>关于这部电影好像没什么好说的</p>
+<p>不过是挺推荐看的</p>
+<p>哦，还是有要说的</p>
+<p>看到里面的社会环境</p>
+<p>老是感觉离我们现在不远</p>
+<p>但那已经是三十年前的了，三十年</p>
 ]]></content>
       <categories>
         <category>观后感</category>
@@ -757,30 +778,6 @@
       </tags>
   </entry>
   <entry>
-    <title>[歌曲分享]12/13</title>
-    <url>/2023/12/13/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-13/</url>
-    <content><![CDATA[<p>好歌分享😎</p>
-<p><a href="https://y.music.163.com/m/song?id=1840603480&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《B.B.F (feat. Hatsune Miku &amp; Kagamine Rin)》</a></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1840603480&auto=0&height=66"></iframe>
-
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/B.B.F.jpg" alt="img" style="width: 40%;" />
-
-<p><a href="https://y.music.163.com/m/song?id=1859401485&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Monster》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Monster.jpg" alt="img" style="width:40%;" />
-
-<p><a href="https://y.music.163.com/m/song?id=1474096021&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《play the world!》</a></p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/playtheworld.jpg" alt="img" style="width: 40%;"/>
-
-<p>对这种短发真是毫无抵抗力😍</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>[歌曲分享]1/20</title>
     <url>/2024/01/20/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-1-20/</url>
     <content><![CDATA[<p><a href="https://y.music.163.com/m/song?id=436016476&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《ちるちる (散落飘零)》</a></p>
@@ -801,6 +798,30 @@
 
 <p>很推荐👍</p>
 <p>每个人在游戏中的选择都会不同，这些选择也能体现我们的人格(?)的不同，我会这样选择，他会那样选，我对我自己的选择还是满意的😊</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[歌曲分享]12/13</title>
+    <url>/2023/12/13/%E6%AD%8C%E6%9B%B2%E5%88%86%E4%BA%AB-12-13/</url>
+    <content><![CDATA[<p>好歌分享😎</p>
+<p><a href="https://y.music.163.com/m/song?id=1840603480&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《B.B.F (feat. Hatsune Miku &amp; Kagamine Rin)》</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1840603480&auto=0&height=66"></iframe>
+
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/B.B.F.jpg" alt="img" style="width: 40%;" />
+
+<p><a href="https://y.music.163.com/m/song?id=1859401485&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《Monster》</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/Monster.jpg" alt="img" style="width:40%;" />
+
+<p><a href="https://y.music.163.com/m/song?id=1474096021&uct2=fCu/MSzNkfcV/DFcuIeahA==&dlt=0846&app_version=8.9.11&sc=wm&tn=">《play the world!》</a></p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/playtheworld.jpg" alt="img" style="width: 40%;"/>
+
+<p>对这种短发真是毫无抵抗力😍</p>
 ]]></content>
       <categories>
         <category>生活</category>
