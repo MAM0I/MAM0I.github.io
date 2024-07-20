@@ -15,29 +15,6 @@
       </tags>
   </entry>
   <entry>
-    <title>04/29杂记</title>
-    <url>/2024/04/29/04-29%E6%9D%82%E8%AE%B0/</url>
-    <content><![CDATA[<p>2024&#x2F;04&#x2F;29</p>
-<p>嗯，好久没更了，</p>
-<p>这是为什么呢？</p>
-<p>因为之前更完没多久，发现网站打不开了，很奇怪啊</p>
-<p>就找原因，找不着，有的时候能进，但是大部分的时候都进不了</p>
-<p>然后又发现开代理后能稳定进，我就想不会是网站被ban了吧</p>
-<p>搞不懂咋回事，然后今天，试了下，发现能进了，不知道是突然好了还是短暂的</p>
-<p>不过还是更一下再来个月度总结吧</p>
-<p>我这个月做了什么？</p>
-<p>好像什么都没做，emo了一个月</p>
-<p>好吧，正常发挥</p>
-<p>希望5月能好一点</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>05/02杂谈</title>
     <url>/2024/05/02/05-02%E6%9D%82%E8%B0%88/</url>
     <content><![CDATA[<p>睡觉，爽！</p>
@@ -205,6 +182,29 @@
       </tags>
   </entry>
   <entry>
+    <title>04/29杂记</title>
+    <url>/2024/04/29/04-29%E6%9D%82%E8%AE%B0/</url>
+    <content><![CDATA[<p>2024&#x2F;04&#x2F;29</p>
+<p>嗯，好久没更了，</p>
+<p>这是为什么呢？</p>
+<p>因为之前更完没多久，发现网站打不开了，很奇怪啊</p>
+<p>就找原因，找不着，有的时候能进，但是大部分的时候都进不了</p>
+<p>然后又发现开代理后能稳定进，我就想不会是网站被ban了吧</p>
+<p>搞不懂咋回事，然后今天，试了下，发现能进了，不知道是突然好了还是短暂的</p>
+<p>不过还是更一下再来个月度总结吧</p>
+<p>我这个月做了什么？</p>
+<p>好像什么都没做，emo了一个月</p>
+<p>好吧，正常发挥</p>
+<p>希望5月能好一点</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>1/22杂谈</title>
     <url>/2024/01/22/1-22%E6%9D%82%E8%B0%88/</url>
     <content><![CDATA[<p>这几天看了几部好看的动漫</p>
@@ -305,26 +305,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World!</title>
-    <url>/2023/12/12/Hello-World/</url>
-    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>audio test</title>
-    <url>/2024/03/27/audio-test/</url>
-    <content><![CDATA[<p>audio test</p>
-<p>&lt;audio src&#x3D;”mp3文件链接地址”&gt;&lt;&#x2F;audio&gt;</p>
-<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/image-20240327183529290.png" alt="image-20240327183529290" style="width:80%;" />
-]]></content>
-      <categories>
-        <category>杂</category>
-      </categories>
-      <tags>
-        <tag>杂</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>HEXO+GithubPages免费搭建个人网站</title>
     <url>/2023/12/12/HEXO-GithubPages%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<p>花了几个小时看教程弄出来，挺好玩，有兴趣可以自己试试😊</p>
@@ -344,6 +324,26 @@
       </tags>
   </entry>
   <entry>
+    <title>audio test</title>
+    <url>/2024/03/27/audio-test/</url>
+    <content><![CDATA[<p>audio test</p>
+<p>&lt;audio src&#x3D;”mp3文件链接地址”&gt;&lt;&#x2F;audio&gt;</p>
+<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/image-20240327183529290.png" alt="image-20240327183529290" style="width:80%;" />
+]]></content>
+      <categories>
+        <category>杂</category>
+      </categories>
+      <tags>
+        <tag>杂</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World!</title>
+    <url>/2023/12/12/Hello-World/</url>
+    <content><![CDATA[<h1 id="开始"><a href="#开始" class="headerlink" title="开始"></a>开始</h1><p>2023&#x2F;12&#x2F;12</p>
+]]></content>
+  </entry>
+  <entry>
     <title>hexo中上传图片比例问题</title>
     <url>/2023/12/13/hexo%E4%B8%AD%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87%E6%AF%94%E4%BE%8B%E9%97%AE%E9%A2%98/</url>
     <content><![CDATA[<p>在上一篇音乐分享那里，我上传了图片，但是图片的像素都不一样，有3000×3000的，有1400×1400的，还有个1500×1500的，我想让他们显示大小都一样，所以我在typora中让他们缩放，差不多解决，但是还不够好。</p>
@@ -356,28 +356,6 @@
 <img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/width.png" alt="img" style="width: 80%;" />
 
 <p>行，以后传歌封面就没问题了。</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>next主题添加访问量</title>
-    <url>/2024/07/20/next%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F/</url>
-    <content><![CDATA[<p>给博客添加一个访问量统计功能</p>
-<p><a href="https://blog.csdn.net/m0_53747349/article/details/131490114#:~:text=2023%E5%B9%B4%EF%BC%8C%20Hexo%20Next%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E8%AE%BF%E5%AE%A2%E7%BB%9F%E8%AE%A1%E3%80%81%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0%E7%BB%9F%E8%AE%A1%E3%80%81%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E6%AC%A1%E6%95%B0%E7%BB%9F%E8%AE%A1%201,%E4%BF%AE%E6%94%B9theme%2Fnext%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84_config%E6%96%87%E4%BB%B6%2C%E7%94%A8%E8%AE%B0%E4%BA%8B%E6%9C%AC%E6%89%93%E5%BC%80%2C%E6%90%9C%E7%B4%A2busuanzi%2C%E6%89%BE%E5%88%B0busuanzi_count%E6%9D%A1%E7%9B%AE%2C%E4%BF%AE%E6%94%B9%E5%85%B6%E4%B8%8B%E7%9A%84enable%E5%AD%97%E6%AE%B5%E4%B8%BAtrue%E3%80%82%202%20%E5%90%8C%E6%A0%B7%E6%98%AF%E5%9C%A8next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%5Cthemes%5Cnext_config.yml%E4%B8%8B%EF%BC%8C%E6%90%9C%E7%B4%A2footer%EF%BC%8C%E5%9C%A8%E5%AE%83%E5%BA%95%E4%B8%8B%E6%B7%BB%E5%8A%A0counter%EF%BC%8C%E8%AE%BE%E5%80%BC%E4%B8%BAtrue%203%20%E8%BF%9B%E5%85%A5%E5%88%B0themes%5Cnext%5Clayout_partials%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%EF%BC%8C%E6%89%BE%E5%88%B0footer.swig%E6%96%87%E4%BB%B6%EF%BC%8C%E6%89%93%E5%BC%80%E7%BC%96%E8%BE%91%EF%BC%8C%E5%9C%A8%E5%BA%95%E4%B8%8B%E6%B7%BB%E5%8A%A0%E4%BB%A3%E7%A0%81">HEXO_NEXT添加访问量</a></p>
-<p>亲测在theme&#x2F;next文件夹下，_config文件中，下面改为true</p>
-<p>busuanzi_count:</p>
-<p>enable: true</p>
-<p>然后在同一文件，</p>
-<p>footer:</p>
-<p>下面添加一条counter: true</p>
-<p>就好了</p>
-<p>然后改好后在本地运行</p>
-<p>页面最底部，访问量很大有问题，但是其实上传后就正常了</p>
 ]]></content>
       <categories>
         <category>技术</category>
@@ -426,6 +404,58 @@
       </categories>
       <tags>
         <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>next主题添加访问量</title>
+    <url>/2024/07/20/next%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E8%AE%BF%E9%97%AE%E9%87%8F/</url>
+    <content><![CDATA[<p>给博客添加一个访问量统计功能</p>
+<p><a href="https://blog.csdn.net/m0_53747349/article/details/131490114#:~:text=2023%E5%B9%B4%EF%BC%8C%20Hexo%20Next%E4%B8%BB%E9%A2%98%E6%B7%BB%E5%8A%A0%E8%AE%BF%E5%AE%A2%E7%BB%9F%E8%AE%A1%E3%80%81%E8%AE%BF%E9%97%AE%E6%AC%A1%E6%95%B0%E7%BB%9F%E8%AE%A1%E3%80%81%E6%96%87%E7%AB%A0%E9%98%85%E8%AF%BB%E6%AC%A1%E6%95%B0%E7%BB%9F%E8%AE%A1%201,%E4%BF%AE%E6%94%B9theme%2Fnext%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%E7%9A%84_config%E6%96%87%E4%BB%B6%2C%E7%94%A8%E8%AE%B0%E4%BA%8B%E6%9C%AC%E6%89%93%E5%BC%80%2C%E6%90%9C%E7%B4%A2busuanzi%2C%E6%89%BE%E5%88%B0busuanzi_count%E6%9D%A1%E7%9B%AE%2C%E4%BF%AE%E6%94%B9%E5%85%B6%E4%B8%8B%E7%9A%84enable%E5%AD%97%E6%AE%B5%E4%B8%BAtrue%E3%80%82%202%20%E5%90%8C%E6%A0%B7%E6%98%AF%E5%9C%A8next%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%5Cthemes%5Cnext_config.yml%E4%B8%8B%EF%BC%8C%E6%90%9C%E7%B4%A2footer%EF%BC%8C%E5%9C%A8%E5%AE%83%E5%BA%95%E4%B8%8B%E6%B7%BB%E5%8A%A0counter%EF%BC%8C%E8%AE%BE%E5%80%BC%E4%B8%BAtrue%203%20%E8%BF%9B%E5%85%A5%E5%88%B0themes%5Cnext%5Clayout_partials%E6%96%87%E4%BB%B6%E5%A4%B9%E4%B8%8B%EF%BC%8C%E6%89%BE%E5%88%B0footer.swig%E6%96%87%E4%BB%B6%EF%BC%8C%E6%89%93%E5%BC%80%E7%BC%96%E8%BE%91%EF%BC%8C%E5%9C%A8%E5%BA%95%E4%B8%8B%E6%B7%BB%E5%8A%A0%E4%BB%A3%E7%A0%81">HEXO_NEXT添加访问量</a></p>
+<p>亲测在theme&#x2F;next文件夹下，_config文件中，下面改为true</p>
+<p>busuanzi_count:</p>
+<p>enable: true</p>
+<p>然后在同一文件，</p>
+<p>footer:</p>
+<p>下面添加一条counter: true</p>
+<p>就好了</p>
+<p>然后改好后在本地运行</p>
+<p>页面最底部，访问量很大有问题，但是其实上传后就正常了</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《咒》观影后</title>
+    <url>/2024/07/20/%E3%80%8A%E5%92%92%E3%80%8B%E8%A7%82%E5%BD%B1%E5%90%8E/</url>
+    <content><![CDATA[<img src="https://mam0i-typora-cloud.oss-cn-guangzhou.aliyuncs.com/Main/p2868550097.webp" alt="p2868550097" style="width:50%;" />
+
+<p>今天下午看的是《咒》，2022，柯孟融作品，恐怖片</p>
+<p>其实之前听到过，说有一部作品在咒观众😂，原来就是这个，看到后面才联想起来</p>
+<p>怎么说呢，这作为恐怖片，对我来说确实挺恐怖的，也很能激发我的情绪</p>
+<p>这部电影的镜头全是影片内角色持摄影机和手机之类拍摄的（是说想要给人这种感觉，不是说导演和摄影师就是这么拍的），比较有特色，这种手持拍摄摇摇晃晃，给人一种不安定感</p>
+<p>还有，影片里的各种jump scare也不少，声音，画面都有</p>
+<p>那么再讲一下剧情，破鬼小队三人去陈氏那边拍youtube视频，探索什么绝对不能进的地道，其实陈氏那边的都是邪教徒</p>
+<p>然后嘎了两个，剩一个女主出来了，但是沾上了诅咒，而且大黑佛母要女主腹中的孩子</p>
+<p>6年后，女主从育养院接女儿出来，然后就各种噶</p>
+<p>她拍摄的视频给观众看，让我们一起念咒语，其实这咒语是分担诅咒的，她想让很多人分担诅咒，这样孩子就不会死了</p>
+<p>差不多就这样</p>
+<p>我其实不信什么鬼啊神啊什么的，但是看恐怖片还是会害怕，说好听点的话，我是一个很好的倾听者😂，具体这些我之前有讲过</p>
+<p>然后再聊聊宗教，我不信佛，也不信教，不过我觉得这个挺有意思的，宗教，是一些人的依靠，是一些人的内心力量</p>
+<p>我觉得这是很有意思的文化，我也去过寺里，不拜，只是看，虽然我不信，但是即使如果他们是真的话，这种都是佛啊，仙啊什么的，又怎么会因为人的不信而生气呢</p>
+<p>但是，这影片中的大黑佛母，诅咒之神，呵，要献祭，要小孩，这种东西，信它作甚，直接灭了多好，反邪教真实太正确了，宗教是应该给人依靠的，是应该让人记住善的，而不是向人们索取什么，也不是让人们互相伤害的</p>
+<p>最后如果问我推不推荐的话，其实这部片还挺能让人沉入的，如果不是特别讨厌恐怖片的话去看看也是可以的</p>
+<p>哦哦，还忘了一件事，这部影片的发生所在地，我看了开头，繁体加口音，让我觉得是台湾，但是之后听到方言，又好像是潮汕话，还是什么闽南语之类的，不太懂，不过有youtube，应该是台湾</p>
+<p>还有啊，这影片里都2020年了，还在邪教呢，这科技这么发达，你邪教算个什么东西，把现代科技都放下，回原始人社会再邪教吧，真是想给大黑佛母来几颗导弹，看它能不能受住，还诅咒之神呢</p>
+]]></content>
+      <categories>
+        <category>生活</category>
+      </categories>
+      <tags>
+        <tag>观后感</tag>
       </tags>
   </entry>
   <entry>
@@ -1060,10 +1090,12 @@
       </tags>
   </entry>
   <entry>
-    <title>测试文章</title>
-    <url>/2023/12/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
-    <content><![CDATA[<p>这是一篇测试</p>
-<p>温馨提示：hexo d的时候不要开代理，并且等它一下就行，不要卡了就乱动</p>
+    <title>考中杂记</title>
+    <url>/2024/01/08/%E8%80%83%E4%B8%AD%E6%9D%82%E8%AE%B0/</url>
+    <content><![CDATA[<p>这段时间期末考试</p>
+<p>这学期课也没怎么听，没兴趣没动力，要是不用上课就好了，这期末考试也是复习一两天去考，应该也不会挂，应该</p>
+<p>今天交完报告去食堂吃饭，在窗口看见个漂亮妹妹在那兼职</p>
+<p>再过两天就考完了，应该有一个半月的假，然后进入下学期</p>
 ]]></content>
       <categories>
         <category>杂</category>
@@ -1073,12 +1105,10 @@
       </tags>
   </entry>
   <entry>
-    <title>考中杂记</title>
-    <url>/2024/01/08/%E8%80%83%E4%B8%AD%E6%9D%82%E8%AE%B0/</url>
-    <content><![CDATA[<p>这段时间期末考试</p>
-<p>这学期课也没怎么听，没兴趣没动力，要是不用上课就好了，这期末考试也是复习一两天去考，应该也不会挂，应该</p>
-<p>今天交完报告去食堂吃饭，在窗口看见个漂亮妹妹在那兼职</p>
-<p>再过两天就考完了，应该有一个半月的假，然后进入下学期</p>
+    <title>测试文章</title>
+    <url>/2023/12/12/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>这是一篇测试</p>
+<p>温馨提示：hexo d的时候不要开代理，并且等它一下就行，不要卡了就乱动</p>
 ]]></content>
       <categories>
         <category>杂</category>
